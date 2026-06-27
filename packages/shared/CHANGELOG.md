@@ -1,5 +1,14 @@
 # @hey-api/shared
 
+## 0.5.1
+
+### Patch Changes
+
+### Updated Dependencies:
+
+- @hey-api/codegen-core@0.9.2
+- @hey-api/json-schema-ref-parser@1.4.5
+
 ## 0.5.0
 
 ### Minor Changes

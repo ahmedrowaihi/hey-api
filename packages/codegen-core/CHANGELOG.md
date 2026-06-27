@@ -1,5 +1,13 @@
 # @hey-api/codegen-core
 
+## 0.9.2
+
+### Patch Changes
+
+- **symbols**: add `.dump()` method to registry ([#4161](https://github.com/hey-api/hey-api/pull/4161)) ([`6eb002b`](https://github.com/hey-api/hey-api/commit/6eb002b33275481acb011ab51e488378717b6b31)) by [@mrlubos](https://github.com/mrlubos)
+
+- **planner**: fix: use canonical symbols for dependencies ([#4154](https://github.com/hey-api/hey-api/pull/4154)) ([`fa7b039`](https://github.com/hey-api/hey-api/commit/fa7b039388b811facee8abff9d447e074f7aa789)) by [@pullfrog](https://github.com/apps/pullfrog)
+
 ## 0.9.1
 
 ### Patch Changes

@@ -1,5 +1,26 @@
 # @hey-api/openapi-ts
 
+## 0.100.0
+
+### Minor Changes
+
+- **BREAKING** **plugin(@hey-api/transformers)**: no longer accept TypeScript nodes directly for stricter types ([#4162](https://github.com/hey-api/hey-api/pull/4162)) ([`ad5fb33`](https://github.com/hey-api/hey-api/commit/ad5fb335a0a939ff2d79eaafe43ec9e3449113de)) by [@mrlubos](https://github.com/mrlubos)
+
+- **BREAKING** **plugin(zod)**: no longer accept TypeScript nodes directly for stricter types ([#4162](https://github.com/hey-api/hey-api/pull/4162)) ([`ad5fb33`](https://github.com/hey-api/hey-api/commit/ad5fb335a0a939ff2d79eaafe43ec9e3449113de)) by [@mrlubos](https://github.com/mrlubos)
+
+- **BREAKING** **plugin(valibot)**: no longer accept TypeScript nodes directly for stricter types ([#4162](https://github.com/hey-api/hey-api/pull/4162)) ([`ad5fb33`](https://github.com/hey-api/hey-api/commit/ad5fb335a0a939ff2d79eaafe43ec9e3449113de)) by [@mrlubos](https://github.com/mrlubos)
+
+- **BREAKING** **cli**: multiple values must be comma-separated ([#4148](https://github.com/hey-api/hey-api/pull/4148)) ([`55fca63`](https://github.com/hey-api/hey-api/commit/55fca632144872bcf864e837a9e851cf7a48cf16)) by [@mrlubos](https://github.com/mrlubos)
+
+### Patch Changes
+
+### Updated Dependencies:
+
+- @hey-api/codegen-cli@0.1.0
+- @hey-api/codegen-core@0.9.2
+- @hey-api/json-schema-ref-parser@1.4.5
+- @hey-api/shared@0.5.1
+
 ## 0.99.0
 
 ### Minor Changes
